@@ -19,6 +19,7 @@ def directors_totals(nds)
   #
   #
   # Be sure to return the result at the end!
+<<<<<<< HEAD
 
   hash = {}
   row_index = 0 
@@ -35,3 +36,8 @@ def directors_totals(nds)
   end
   hash
 end
+=======
+  nil
+  pp directors_database
+end
+>>>>>>> 4701fc01def3d1648ae69a2a0a9e951a1283269a
